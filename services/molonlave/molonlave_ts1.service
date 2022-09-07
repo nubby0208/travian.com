@@ -1,0 +1,13 @@
+[Unit]
+Description=Travian game engine (ts1)
+After=network.target
+After=mysqld.service
+
+[Service]
+User=travian
+Type=forking
+ExecStart=/home/travian/molonlave/servers/ts1/include/molonlave_ts1.service.php
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

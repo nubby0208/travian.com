@@ -1,0 +1,76 @@
+[01-Jun-2020 11:14:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'molonlav_ts1'@'localhost' (using password: YES) in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:14:39 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:14:39 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:22 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:22 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:24 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:24 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:24 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:24 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:25 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:25 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:39:25 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:39:25 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:00 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:00 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:02 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:02 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:02 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:02 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:03 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:03 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 11:49:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 11:49:03 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 11:49:03 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 12:14:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 12:14:23 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 12:14:23 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[01-Jun-2020 12:15:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[01-Jun-2020 12:15:25 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[01-Jun-2020 12:15:25 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13
+[09-Aug-2021 15:37:26 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:31 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:36 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:41 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:46 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:51 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:37:56 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:01 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:06 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:11 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:16 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:21 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:26 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:31 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:36 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:41 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:46 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:51 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:38:56 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:01 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:06 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:11 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:16 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:21 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:26 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[09-Aug-2021 15:39:31 UTC] PHP Notice:  Array to string conversion in /home/travian/gpack/gpack.php on line 3
+[04-Oct-2021 11:36:26 UTC] PHP Warning:  mysqli::query(): (08S01/1053): Server shutdown in progress in /travian/TaskWorker/include/Core/DB.php on line 80
+[04-Oct-2021 11:36:26 UTC] PHP Warning:  Mysqli Error: Server shutdown in progress in Query: SELECT * FROM taskQueue WHERE status='pending' ORDER BY id ASC in /travian/TaskWorker/include/Core/DB.php on line 82
+[04-Oct-2021 11:36:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /travian/TaskWorker/include/Core/DB.php on line 36
+[04-Oct-2021 11:36:31 UTC] PHP Warning:  mysqli::ping(): Couldn't fetch mysqli in /travian/TaskWorker/include/Core/DB.php on line 37
+[04-Oct-2021 11:36:31 UTC] PHP Notice:  Failed to connect to mysql server thought socket. in /travian/TaskWorker/include/Core/DB.php on line 13

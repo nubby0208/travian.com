@@ -1,0 +1,13 @@
+[Unit]
+Description=Travian game engine (1000x)
+After=network.target
+After=mysqld.service
+
+[Service]
+User=travian
+Type=forking
+ExecStart=/home/travian/molonlave/servers/1000x/include/molonlave_1000x.service.php
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
